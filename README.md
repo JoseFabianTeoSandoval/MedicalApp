@@ -12,15 +12,15 @@ Este repositorio contiene el código de la aplicación Android y todos los entre
 
 - **[video demo](https://youtu.be/LuXUjP487sI)**
 - **[flujo.json](docs/My%20workflow.json)**
-- **[Documento de Propuesta](docs/propuesta.pdf)**
+- **[Documento de Propuesta](docs)**
 
 ---
 
-## 1) Video de la Fase 1
+## 1) Fase 1
 
-- **Enlace al video**: PENDIENTE → reemplaza este enlace por el de tu presentación inicial de la app.
-  - URL: https://example.com/tu-video-fase-1
-  - Asegúrate de que el enlace sea público o accesible para revisión.
+- presentación inicial de la app.
+  - URL: https://gitlab.com/thebyren-group/presentation
+    - Video: 
 
 ---
 
